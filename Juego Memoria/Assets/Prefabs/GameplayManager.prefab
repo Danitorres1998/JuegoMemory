@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7734229684550962754
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7734229684550962756}
+  - component: {fileID: 7734229684550962757}
+  m_Layer: 0
+  m_Name: GameplayManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7734229684550962756
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7734229684550962754}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7734229684550962757
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7734229684550962754}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56772abeb86d10b4f877018166ad2577, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  numberText: {fileID: 0}
+  posSpriteForma: {fileID: 0}
+  SpriteCartas:
+  - {fileID: -1552306804035930854, guid: a35b0919ef9ee7a4f8697bfaa3606f32, type: 3}
+  - {fileID: -1552306804035930854, guid: a35b0919ef9ee7a4f8697bfaa3606f32, type: 3}
+  - {fileID: -5925799071832143385, guid: 2a76e0b4539db29489e5dfff4fa2daf6, type: 3}
+  - {fileID: -5925799071832143385, guid: 2a76e0b4539db29489e5dfff4fa2daf6, type: 3}
+  - {fileID: 321998464800956512, guid: f720fd0439319f241a3963d61ec80e32, type: 3}
+  - {fileID: 321998464800956512, guid: f720fd0439319f241a3963d61ec80e32, type: 3}
+  - {fileID: -6050513285733282072, guid: 7455cbb564ee2084ab81b8c4fa53640d, type: 3}
+  - {fileID: -6050513285733282072, guid: 7455cbb564ee2084ab81b8c4fa53640d, type: 3}
+  - {fileID: -259348373720744626, guid: fdb046aaaba5f6f48a727983b22c0d57, type: 3}
+  - {fileID: -259348373720744626, guid: fdb046aaaba5f6f48a727983b22c0d57, type: 3}
+  - {fileID: 5657386584122301636, guid: f720fd0439319f241a3963d61ec80e32, type: 3}
+  - {fileID: 5657386584122301636, guid: f720fd0439319f241a3963d61ec80e32, type: 3}
+  CartasBotones:
+  - {fileID: 966362472879062609, guid: 59d586b2de9967c4f9a05fea97db2655, type: 3}
+  - {fileID: 966362472879062609, guid: 59d586b2de9967c4f9a05fea97db2655, type: 3}
+  - {fileID: 966362472879062609, guid: 59d586b2de9967c4f9a05fea97db2655, type: 3}
+  - {fileID: 966362472879062609, guid: 59d586b2de9967c4f9a05fea97db2655, type: 3}
+  - {fileID: 966362472879062609, guid: 59d586b2de9967c4f9a05fea97db2655, type: 3}
+  - {fileID: 966362472879062609, guid: 59d586b2de9967c4f9a05fea97db2655, type: 3}
+  - {fileID: 966362472879062609, guid: 59d586b2de9967c4f9a05fea97db2655, type: 3}
+  - {fileID: 966362472879062609, guid: 59d586b2de9967c4f9a05fea97db2655, type: 3}
+  - {fileID: 966362472879062609, guid: 59d586b2de9967c4f9a05fea97db2655, type: 3}
+  - {fileID: 966362472879062609, guid: 59d586b2de9967c4f9a05fea97db2655, type: 3}
+  - {fileID: 966362472879062609, guid: 59d586b2de9967c4f9a05fea97db2655, type: 3}
+  - {fileID: 966362472879062609, guid: 59d586b2de9967c4f9a05fea97db2655, type: 3}
+  canvasPadre: {fileID: 0}
+  posObjectsInPanel:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  panelVictory: {fileID: 0}
+  posTextoPrincipal: {fileID: 0}
+  panelReiniciar: {fileID: 0}
